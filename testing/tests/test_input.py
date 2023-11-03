@@ -1,6 +1,6 @@
 import pytest
 
-from sprint_4_testing.calc import calculation_by_str
+from testing.calc import calculation_by_str
 
 
 @pytest.mark.parametrize(

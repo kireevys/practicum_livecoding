@@ -1,6 +1,6 @@
 import pytest
 
-from sprint_4_testing.calc import addition, division, multiplication, subtraction
+from testing.calc import addition, division, multiplication, subtraction
 
 
 @pytest.mark.parametrize(
