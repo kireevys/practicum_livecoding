@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Products>
+    <Product>
+        <Name>Bananas</Name>
+        <Description>Обычные такие бананы</Description>
+        <Price>10.00</Price>
+        <Stock>5</Stock>
+        <Discount>0.25</Discount>
+    </Product>
+    <Product>
+        <Name>Oranges</Name>
+        <Description>Волшебные апельсины</Description>
+        <Price>20.00</Price>
+        <Stock>30</Stock>
+        <Discount>0.10</Discount>
+    </Product>
+</Products>

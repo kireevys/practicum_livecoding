@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bananas",
+    "description": "Обычные такие бананы",
+    "price": 10.00,
+    "stock": 5,
+    "discount": 0.25
+  },
+  {
+    "name": "Oranges",
+    "description": "Волшебные апельсины",
+    "price": 20.00,
+    "stock": 30,
+    "discount": 0.10
+  }
+]
